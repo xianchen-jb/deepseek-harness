@@ -13,3 +13,10 @@ desktop.ini
 *.log
 tmp/
 temp/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Tool output (screenshots, captures)
+tools/out/
